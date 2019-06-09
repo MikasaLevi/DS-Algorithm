@@ -17,6 +17,7 @@
 ### 关于树深,深度相关问题
 
 1. [104. Maximum Depth of Binary Tree](https://github.com/MikasaLevi/LeetCode/issues/9)
+2. [111. Minimum Depth of Binary Tree](https://github.com/MikasaLevi/LeetCode/issues/10)
 
 ### 其他关于树的灵活运用问题
 
