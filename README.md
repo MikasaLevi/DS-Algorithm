@@ -9,7 +9,8 @@
 
 ### 遍历所有路径问题
 
-1. [257. Binary Tree Paths](https://github.com/MikasaLevi/LeetCode/issues/5)
+1. [112. Path Sum](https://github.com/MikasaLevi/LeetCode/issues/6)
+2. [257. Binary Tree Paths](https://github.com/MikasaLevi/LeetCode/issues/5)
 
 
 
