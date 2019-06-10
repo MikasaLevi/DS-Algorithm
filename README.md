@@ -23,6 +23,7 @@
 
 1. [101. Symmetric Tree](https://github.com/MikasaLevi/LeetCode/issues/12) - 对称树
 2. [226. Invert Binary Tree](https://github.com/MikasaLevi/LeetCode/issues/11) - 反转二叉树
+3. [【需重点review】110. Balanced Binary Tree](https://github.com/MikasaLevi/LeetCode/issues/13) - 平衡二叉树
 
 
 
