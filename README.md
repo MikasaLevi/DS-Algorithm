@@ -31,6 +31,7 @@
 ### 排列组合 - add/remove 解法
 
 1. [【需TODO:复杂度】39. Combination Sum](https://github.com/MikasaLevi/LeetCode/issues/18)
-2. [【需TODO:复杂度】77. Combinations](https://github.com/MikasaLevi/LeetCode/issues/17)
-3. [【需TODO:复杂度】78. Subsets](https://github.com/MikasaLevi/LeetCode/issues/15)
-4. [【需TODO:DISCUSS】90. Subsets II](https://github.com/MikasaLevi/LeetCode/issues/16)
+2. [【需TODO:复杂度】40. Combination Sum II](https://github.com/MikasaLevi/LeetCode/issues/19)
+3. [【需TODO:复杂度】77. Combinations](https://github.com/MikasaLevi/LeetCode/issues/17)
+4. [【需TODO:复杂度】78. Subsets](https://github.com/MikasaLevi/LeetCode/issues/15)
+5. [【需TODO:DISCUSS】90. Subsets II](https://github.com/MikasaLevi/LeetCode/issues/16)
