@@ -3,9 +3,9 @@
 ### 前中后序算法(递归+非递归)
 
 1. [94. Binary Tree Inorder Traversal](https://github.com/MikasaLevi/LeetCode/issues/2)
-2. [144. Binary Tree Preorder Traversal](https://github.com/MikasaLevi/LeetCode/issues/1)
-3. [145. Binary Tree Postorder Traversal](https://github.com/MikasaLevi/LeetCode/issues/3)
-4. [102. Binary Tree Level Order Traversal](https://github.com/MikasaLevi/LeetCode/issues/4)
+2. [102. Binary Tree Level Order Traversal](https://github.com/MikasaLevi/LeetCode/issues/4)
+3. [144. Binary Tree Preorder Traversal](https://github.com/MikasaLevi/LeetCode/issues/1)
+4. [145. Binary Tree Postorder Traversal](https://github.com/MikasaLevi/LeetCode/issues/3)
 
 ### 遍历所有路径问题
 
@@ -21,7 +21,8 @@
 
 ### 其他关于树的灵活运用问题
 
-1. 反转二叉树-[226. Invert Binary Tree](https://github.com/MikasaLevi/LeetCode/issues/11)
+1. [101. Symmetric Tree](https://github.com/MikasaLevi/LeetCode/issues/12) - 对称树
+2. [226. Invert Binary Tree](https://github.com/MikasaLevi/LeetCode/issues/11) - 反转二叉树
 
 
 
