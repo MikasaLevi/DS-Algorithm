@@ -10,7 +10,8 @@
 
 1. [1. Two Sum](https://github.com/MikasaLevi/LeetCode/issues/23)
 2. [15. 3Sum](https://github.com/MikasaLevi/LeetCode/issues/25)
-3. [167. Two Sum II - Input array is sorted](https://github.com/MikasaLevi/LeetCode/issues/24)
+3. [【TODO:扩展到KSum】18. 4Sum](https://github.com/MikasaLevi/LeetCode/issues/26)
+4. [167. Two Sum II - Input array is sorted](https://github.com/MikasaLevi/LeetCode/issues/24)
 
 # 树相关
 
