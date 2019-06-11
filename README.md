@@ -3,7 +3,8 @@
 ### 最大/最小子数组问题
 
 1. [53. Maximum Subarray](https://github.com/MikasaLevi/LeetCode/issues/29)
-2. [【需TODO:考虑多种方法】209. Minimum Size Subarray Sum](https://github.com/MikasaLevi/LeetCode/issues/30)
+2. [【需重点review】152. Maximum Product Subarray](https://github.com/MikasaLevi/LeetCode/issues/31)
+3. [【需TODO:考虑多种方法】209. Minimum Size Subarray Sum](https://github.com/MikasaLevi/LeetCode/issues/30)
 
 ### 翻转问题
 
