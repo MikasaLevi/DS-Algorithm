@@ -5,6 +5,7 @@
 ### 翻转问题
 
 1. [31. Next Permutation](https://github.com/MikasaLevi/LeetCode/issues/27)
+2. [189. Rotate Array](https://github.com/MikasaLevi/LeetCode/issues/28)
 
 ### 利用双指针的问题
 
