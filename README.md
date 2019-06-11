@@ -32,7 +32,8 @@
 
 1. [【需TODO:复杂度】39. Combination Sum](https://github.com/MikasaLevi/LeetCode/issues/18)
 2. [【需TODO:复杂度】40. Combination Sum II](https://github.com/MikasaLevi/LeetCode/issues/19)
-3. [【需TODO:复杂度】77. Combinations](https://github.com/MikasaLevi/LeetCode/issues/17)
-4. [【需TODO:复杂度】78. Subsets](https://github.com/MikasaLevi/LeetCode/issues/15)
-5. [【需TODO:DISCUSS】90. Subsets II](https://github.com/MikasaLevi/LeetCode/issues/16)
-6. [【需TODO:复杂度】216. Combination Sum III](https://github.com/MikasaLevi/LeetCode/issues/20)
+3. [【需TODO:复杂度】46. Permutations](https://github.com/MikasaLevi/LeetCode/issues/21) 
+4. [【需TODO:复杂度】77. Combinations](https://github.com/MikasaLevi/LeetCode/issues/17)
+5. [【需TODO:复杂度】78. Subsets](https://github.com/MikasaLevi/LeetCode/issues/15)
+6. [【需TODO:DISCUSS】90. Subsets II](https://github.com/MikasaLevi/LeetCode/issues/16)
+7. [【需TODO:复杂度】216. Combination Sum III](https://github.com/MikasaLevi/LeetCode/issues/20)
