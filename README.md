@@ -9,6 +9,7 @@
 ### 加和问题(a+b=0)
 
 1. [1. Two Sum](https://github.com/MikasaLevi/LeetCode/issues/23)
+2. [167. Two Sum II - Input array is sorted](https://github.com/MikasaLevi/LeetCode/issues/24)
 
 # 树相关
 
