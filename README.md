@@ -2,6 +2,8 @@
 
 ### 最大/最小子数组问题
 
+1. [53. Maximum Subarray](https://github.com/MikasaLevi/LeetCode/issues/29)
+
 ### 翻转问题
 
 1. [31. Next Permutation](https://github.com/MikasaLevi/LeetCode/issues/27)
