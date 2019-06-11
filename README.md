@@ -2,7 +2,9 @@
 
 ### 最大/最小子数组问题
 
-### 旋转循环问题
+### 翻转问题
+
+1. [31. Next Permutation](https://github.com/MikasaLevi/LeetCode/issues/27)
 
 ### 利用双指针的问题
 
