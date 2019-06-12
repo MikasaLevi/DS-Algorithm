@@ -33,6 +33,7 @@
 
 1. [2. Add Two Numbers](https://github.com/MikasaLevi/LeetCode/issues/38) - 两个链表操作
 2. [21. Merge Two Sorted Lists](https://github.com/MikasaLevi/LeetCode/issues/39) - 两个链表操作 + 双指针
+3. [【需重点review-抄】160. Intersection of Two Linked Lists](https://github.com/MikasaLevi/LeetCode/issues/40)
 
 # 树相关
 
