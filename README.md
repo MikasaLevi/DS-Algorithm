@@ -31,7 +31,8 @@
 
 ### 暂未总结分类!!!!!!
 
-1. [2. Add Two Numbers](https://github.com/MikasaLevi/LeetCode/issues/38)
+1. [2. Add Two Numbers](https://github.com/MikasaLevi/LeetCode/issues/38) - 两个链表操作
+2. [21. Merge Two Sorted Lists](https://github.com/MikasaLevi/LeetCode/issues/39) - 两个链表操作 + 双指针
 
 # 树相关
 
