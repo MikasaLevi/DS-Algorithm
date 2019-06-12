@@ -18,6 +18,7 @@
 3. [75. Sort Colors](https://github.com/MikasaLevi/LeetCode/issues/36)
 4. [80. Remove Duplicates from Sorted Array II](https://github.com/MikasaLevi/LeetCode/issues/34)
 5. [88. Merge Sorted Array](https://github.com/MikasaLevi/LeetCode/issues/35)
+6. [283. Move Zeroes](https://github.com/MikasaLevi/LeetCode/issues/37)
 
 ### 加和问题(a+b=0)
 
