@@ -13,7 +13,8 @@
 
 ### 利用双指针的问题
 
-1. [27. Remove Element](https://github.com/MikasaLevi/LeetCode/issues/32)
+1. [26. Remove Duplicates from Sorted Array](https://github.com/MikasaLevi/LeetCode/issues/33)
+2. [27. Remove Element](https://github.com/MikasaLevi/LeetCode/issues/32)
 
 ### 加和问题(a+b=0)
 
