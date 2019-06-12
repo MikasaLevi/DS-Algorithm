@@ -27,6 +27,12 @@
 3. [【TODO:扩展到KSum】18. 4Sum](https://github.com/MikasaLevi/LeetCode/issues/26)
 4. [167. Two Sum II - Input array is sorted](https://github.com/MikasaLevi/LeetCode/issues/24)
 
+# 链表List
+
+### 暂未总结分类!!!!!!
+
+1. [2. Add Two Numbers](https://github.com/MikasaLevi/LeetCode/issues/38)
+
 # 树相关
 
 ### 前中后序算法(递归+非递归)
