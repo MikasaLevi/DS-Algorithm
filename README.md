@@ -15,6 +15,7 @@
 
 1. [26. Remove Duplicates from Sorted Array](https://github.com/MikasaLevi/LeetCode/issues/33)
 2. [27. Remove Element](https://github.com/MikasaLevi/LeetCode/issues/32)
+3. [80. Remove Duplicates from Sorted Array II](https://github.com/MikasaLevi/LeetCode/issues/34)
 
 ### 加和问题(a+b=0)
 
