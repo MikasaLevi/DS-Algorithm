@@ -13,6 +13,8 @@
 
 ### 利用双指针的问题
 
+1. [27. Remove Element](https://github.com/MikasaLevi/LeetCode/issues/32)
+
 ### 加和问题(a+b=0)
 
 1. [1. Two Sum](https://github.com/MikasaLevi/LeetCode/issues/23)
