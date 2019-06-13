@@ -37,8 +37,9 @@
 4. [【需重点review-抄】160. Intersection of Two Linked Lists](https://github.com/MikasaLevi/LeetCode/issues/40) - 偏技巧
 5. [24. Swap Nodes in Pairs](https://github.com/MikasaLevi/LeetCode/issues/42) - 递归解法
 6. [61. Rotate List](https://github.com/MikasaLevi/LeetCode/issues/43) - 重点!!!链表的旋转
-7. [82. Remove Duplicates from Sorted List II](https://github.com/MikasaLevi/LeetCode/issues/45)
+7. [82. Remove Duplicates from Sorted List II](https://github.com/MikasaLevi/LeetCode/issues/45) - 双指针
 8. [83. Remove Duplicates from Sorted List](https://github.com/MikasaLevi/LeetCode/issues/44)
+9. [86. Partition List](https://github.com/MikasaLevi/LeetCode/issues/46) 重点!!!拆成2个链表再合并成一个链表的解法
 
 # 树相关
 
