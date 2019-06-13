@@ -36,6 +36,7 @@
 3. [21. Merge Two Sorted Lists](https://github.com/MikasaLevi/LeetCode/issues/39) - 两个链表操作 + 双指针
 4. [【需重点review-抄】160. Intersection of Two Linked Lists](https://github.com/MikasaLevi/LeetCode/issues/40) - 偏技巧
 5. [24. Swap Nodes in Pairs](https://github.com/MikasaLevi/LeetCode/issues/42) - 递归解法
+6. [61. Rotate List](https://github.com/MikasaLevi/LeetCode/issues/43) - 重点!!!链表的旋转
 
 # 树相关
 
