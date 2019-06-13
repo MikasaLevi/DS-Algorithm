@@ -34,8 +34,8 @@
 1. [2. Add Two Numbers](https://github.com/MikasaLevi/LeetCode/issues/38) - 两个链表操作
 2. [【需重点review】19. Remove Nth Node From End of List](https://github.com/MikasaLevi/LeetCode/issues/41) - 双指针 + 删元素
 3. [21. Merge Two Sorted Lists](https://github.com/MikasaLevi/LeetCode/issues/39) - 两个链表操作 + 双指针
-4. [【需重点review-抄】160. Intersection of Two Linked Lists](https://github.com/MikasaLevi/LeetCode/issues/40) - 偏技巧
-5. [【需重点review-抄】138. Copy List with Random Pointer](https://github.com/MikasaLevi/LeetCode/issues/48)
+4. [【需重点review-抄】160. Intersection of Two Linked Lists](https://github.com/MikasaLevi/LeetCode/issues/40) - 偏技巧 - 快慢指针相遇即有重复
+5. [【需重点review-抄】138. Copy List with Random Pointer](https://github.com/MikasaLevi/LeetCode/issues/48) - 快慢指针相遇即有环?严格证明?
 5. [24. Swap Nodes in Pairs](https://github.com/MikasaLevi/LeetCode/issues/42) - 递归解法
 6. [61. Rotate List](https://github.com/MikasaLevi/LeetCode/issues/43) - 重点!!!链表的旋转
 7. [82. Remove Duplicates from Sorted List II](https://github.com/MikasaLevi/LeetCode/issues/45) - 双指针
