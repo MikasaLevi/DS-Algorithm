@@ -48,6 +48,12 @@
 12. [【需重点review】148. Sort List](https://github.com/MikasaLevi/LeetCode/issues/50) 
 13. [234. Palindrome Linked List](https://github.com/MikasaLevi/LeetCode/issues/53) - 涉及反转链表
 
+# String 字符串
+
+### 回文数相关
+
+1. [125. Valid Palindrome](https://github.com/MikasaLevi/LeetCode/issues/54)
+
 # 树相关
 
 ### 前中后序算法(递归+非递归)
