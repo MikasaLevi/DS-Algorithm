@@ -60,6 +60,10 @@
 1. [151. Reverse Words in a String](https://github.com/MikasaLevi/LeetCode/issues/56) - 整体反转再各自反转的问题
 2. [344. Reverse String](https://github.com/MikasaLevi/LeetCode/issues/57)
 
+### 暂未总结分类!!!!!!
+
+1. [3. Longest Substring Without Repeating Characters](https://github.com/MikasaLevi/LeetCode/issues/58) - 利用 map
+
 # 树相关
 
 ### 前中后序算法(递归+非递归)
