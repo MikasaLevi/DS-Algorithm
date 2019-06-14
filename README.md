@@ -52,7 +52,8 @@
 
 ### 回文数相关
 
-1. [125. Valid Palindrome](https://github.com/MikasaLevi/LeetCode/issues/54)
+1. [5. Longest Palindromic Substring](https://github.com/MikasaLevi/LeetCode/issues/55)
+2. [125. Valid Palindrome](https://github.com/MikasaLevi/LeetCode/issues/54)
 
 # 树相关
 
