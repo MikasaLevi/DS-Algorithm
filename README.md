@@ -58,6 +58,7 @@
 ### 字符串反转问题
 
 1. [151. Reverse Words in a String](https://github.com/MikasaLevi/LeetCode/issues/56) - 整体反转再各自反转的问题
+2. [344. Reverse String](https://github.com/MikasaLevi/LeetCode/issues/57)
 
 # 树相关
 
