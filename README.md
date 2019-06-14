@@ -68,6 +68,10 @@
 3. [242. Valid Anagram](https://github.com/MikasaLevi/LeetCode/issues/61) - map 解法
 4. [290. Word Pattern](https://github.com/MikasaLevi/LeetCode/issues/59) - 也是有利用 map 的解法
 
+### 做了后觉得不太好的题目
+
+1. [【不太好的题目】58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/submissions/) - 不知道考什么
+
 # 树相关
 
 ### 前中后序算法(递归+非递归)
