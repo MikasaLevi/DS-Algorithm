@@ -63,6 +63,7 @@
 ### 暂未总结分类!!!!!!
 
 1. [3. Longest Substring Without Repeating Characters](https://github.com/MikasaLevi/LeetCode/issues/58) - 利用 map
+2. [290. Word Pattern](https://github.com/MikasaLevi/LeetCode/issues/59) - 也是有利用 map 的解法
 
 # 树相关
 
