@@ -55,6 +55,10 @@
 1. [5. Longest Palindromic Substring](https://github.com/MikasaLevi/LeetCode/issues/55)
 2. [125. Valid Palindrome](https://github.com/MikasaLevi/LeetCode/issues/54)
 
+### 字符串反转问题
+
+1. [151. Reverse Words in a String](https://github.com/MikasaLevi/LeetCode/issues/56) - 整体反转再各自反转的问题
+
 # 树相关
 
 ### 前中后序算法(递归+非递归)
