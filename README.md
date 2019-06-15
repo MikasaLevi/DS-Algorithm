@@ -114,7 +114,7 @@
 5. [【需TODO:复杂度】77. Combinations](https://github.com/MikasaLevi/LeetCode/issues/17)
 6. [【需TODO:复杂度】78. Subsets](https://github.com/MikasaLevi/LeetCode/issues/15)
 7. [【需TODO:DISCUSS】90. Subsets II](https://github.com/MikasaLevi/LeetCode/issues/16)
-8. [【需TODO:复杂度】216. Combination Sum III](https://github.com/MikasaLevi/LeetCode/issues/20)
+9. [【需TODO:复杂度】216. Combination Sum III](https://github.com/MikasaLevi/LeetCode/issues/20)
 
 # 一些实际场景问题(这里都需要重点review一下)
 
@@ -126,9 +126,10 @@
 
 # 不知道怎么分类
 
-1. [【需重点review】146. LRU Cache](https://github.com/MikasaLevi/LeetCode/issues/75)
-2. [169. Majority Element](https://github.com/MikasaLevi/LeetCode/issues/73)
-3. [【需重点review-抄】179. Largest Number](https://github.com/MikasaLevi/LeetCode/issues/69)
+1. [【需TODO:DISCUSS】139. Word Break](https://github.com/MikasaLevi/LeetCode/issues/78)
+2. [【需重点review】146. LRU Cache](https://github.com/MikasaLevi/LeetCode/issues/75)
+3. [169. Majority Element](https://github.com/MikasaLevi/LeetCode/issues/73)
+4. [【需重点review-抄】179. Largest Number](https://github.com/MikasaLevi/LeetCode/issues/69)
 
 ### 进制相关的问题
 
