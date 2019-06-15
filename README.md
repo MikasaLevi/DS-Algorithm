@@ -128,4 +128,6 @@
 
 ### 进制相关的问题
 
-1. [171. Excel Sheet Column Number](https://github.com/MikasaLevi/LeetCode/issues/71)
+1. [168. Excel Sheet Column Title](https://github.com/MikasaLevi/LeetCode/issues/72)
+2. [171. Excel Sheet Column Number](https://github.com/MikasaLevi/LeetCode/issues/71)
+
