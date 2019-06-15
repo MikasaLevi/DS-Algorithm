@@ -113,10 +113,11 @@
 7. [【需TODO:DISCUSS】90. Subsets II](https://github.com/MikasaLevi/LeetCode/issues/16)
 8. [【需TODO:复杂度】216. Combination Sum III](https://github.com/MikasaLevi/LeetCode/issues/20)
 
-# 一些实际场景问题
+# 一些实际场景问题(这里都需要重点review一下)
 
 1. [121. Best Time to Buy and Sell Stock](https://github.com/MikasaLevi/LeetCode/issues/66)
 2. [【需重点review-抄】122. Best Time to Buy and Sell Stock II](https://github.com/MikasaLevi/LeetCode/issues/67) - 贪心算法(需重点看看)
-3. [【需TODO:DISCUSS+复杂度】198. House Robber](https://github.com/MikasaLevi/LeetCode/issues/65) - 典型的 dp 算法
-4. [【需TODO:复杂度】200. Number of Islands](https://github.com/MikasaLevi/LeetCode/issues/64) - 有用到 DFS 的思想
+3. [187. Repeated DNA Sequences](https://github.com/MikasaLevi/LeetCode/issues/68)
+4. [【需TODO:DISCUSS+复杂度】198. House Robber](https://github.com/MikasaLevi/LeetCode/issues/65) - 典型的 dp 算法
+5. [【需TODO:复杂度】200. Number of Islands](https://github.com/MikasaLevi/LeetCode/issues/64) - 有用到 DFS 的思想
 
