@@ -124,8 +124,9 @@
 
 # 不知道怎么分类
 
-1. [169. Majority Element](https://github.com/MikasaLevi/LeetCode/issues/73)
-2. [【需重点review-抄】179. Largest Number](https://github.com/MikasaLevi/LeetCode/issues/69)
+1. [【需重点review】146. LRU Cache](https://github.com/MikasaLevi/LeetCode/issues/75)
+2. [169. Majority Element](https://github.com/MikasaLevi/LeetCode/issues/73)
+3. [【需重点review-抄】179. Largest Number](https://github.com/MikasaLevi/LeetCode/issues/69)
 
 ### 进制相关的问题
 
