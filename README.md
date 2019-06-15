@@ -115,6 +115,7 @@
 
 # 一些实际场景问题
 
-1. [【需TODO:DISCUSS】198. House Robber](https://github.com/MikasaLevi/LeetCode/issues/65) - 典型的 dp 算法
-2. [200. Number of Islands](https://github.com/MikasaLevi/LeetCode/issues/64) - 有用到 DFS 的思想
+1. [121. Best Time to Buy and Sell Stock](https://github.com/MikasaLevi/LeetCode/issues/66)
+2. [【需TODO:DISCUSS】198. House Robber](https://github.com/MikasaLevi/LeetCode/issues/65) - 典型的 dp 算法
+3. [200. Number of Islands](https://github.com/MikasaLevi/LeetCode/issues/64) - 有用到 DFS 的思想
 
