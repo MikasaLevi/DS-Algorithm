@@ -125,3 +125,7 @@
 # 不知道怎么分类
 
 1. [【需重点review-抄】179. Largest Number](https://github.com/MikasaLevi/LeetCode/issues/69)
+
+### 进制相关的问题
+
+1. [171. Excel Sheet Column Number](https://github.com/MikasaLevi/LeetCode/issues/71)
