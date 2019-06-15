@@ -47,7 +47,8 @@
 11. [143. Reorder List](https://github.com/MikasaLevi/LeetCode/issues/49) - 也涉及反转链表
 12. [【需重点review】148. Sort List](https://github.com/MikasaLevi/LeetCode/issues/50) 
 13. [234. Palindrome Linked List](https://github.com/MikasaLevi/LeetCode/issues/53) - 涉及反转链表
-14. [141. Linked List Cycle](https://github.com/MikasaLevi/LeetCode/issues/76)
+14. [141. Linked List Cycle](https://github.com/MikasaLevi/LeetCode/issues/76) - 注意这里的数学证明-TODO
+15. [142. Linked List Cycle II](https://github.com/MikasaLevi/LeetCode/issues/77) - 注意这里的 Discuss 中的数学证明-TODO
 
 # String 字符串
 
