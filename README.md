@@ -124,10 +124,11 @@
 
 # 不知道怎么分类
 
-1. [【需重点review-抄】179. Largest Number](https://github.com/MikasaLevi/LeetCode/issues/69)
+1. [169. Majority Element](https://github.com/MikasaLevi/LeetCode/issues/73)
+2. [【需重点review-抄】179. Largest Number](https://github.com/MikasaLevi/LeetCode/issues/69)
 
 ### 进制相关的问题
 
-1. [168. Excel Sheet Column Title](https://github.com/MikasaLevi/LeetCode/issues/72)
+1. [【需重点review】168. Excel Sheet Column Title](https://github.com/MikasaLevi/LeetCode/issues/72) - 非常好的一道题目
 2. [171. Excel Sheet Column Number](https://github.com/MikasaLevi/LeetCode/issues/71)
 
