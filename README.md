@@ -113,6 +113,8 @@
 7. [【需TODO:DISCUSS】90. Subsets II](https://github.com/MikasaLevi/LeetCode/issues/16)
 8. [【需TODO:复杂度】216. Combination Sum III](https://github.com/MikasaLevi/LeetCode/issues/20)
 
-# 实际应用问题
+# 一些实际场景问题
 
-1. [200. Number of Islands](https://github.com/MikasaLevi/LeetCode/issues/64)
+1. [【需TODO:DISCUSS】198. House Robber](https://github.com/MikasaLevi/LeetCode/issues/65) - 典型的 dp 算法
+2. [200. Number of Islands](https://github.com/MikasaLevi/LeetCode/issues/64) - 有用到 DFS 的思想
+
