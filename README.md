@@ -127,11 +127,12 @@
 # 不知道怎么分类
 
 1. [【需重点review】136. Single Number](https://github.com/MikasaLevi/LeetCode/issues/80)
-2. [138. Copy List with Random Pointer](https://github.com/MikasaLevi/LeetCode/issues/79)
-3. [【需TODO:DISCUSS】139. Word Break](https://github.com/MikasaLevi/LeetCode/issues/78)
-4. [【需重点review】146. LRU Cache](https://github.com/MikasaLevi/LeetCode/issues/75)
-5. [169. Majority Element](https://github.com/MikasaLevi/LeetCode/issues/73)
-6. [【需重点review-抄】179. Largest Number](https://github.com/MikasaLevi/LeetCode/issues/69)
+2. [137. Single Number II](https://github.com/MikasaLevi/LeetCode/issues/81)
+3. [138. Copy List with Random Pointer](https://github.com/MikasaLevi/LeetCode/issues/79)
+4. [【需TODO:DISCUSS】139. Word Break](https://github.com/MikasaLevi/LeetCode/issues/78)
+5. [【需重点review】146. LRU Cache](https://github.com/MikasaLevi/LeetCode/issues/75)
+6. [169. Majority Element](https://github.com/MikasaLevi/LeetCode/issues/73)
+7. [【需重点review-抄】179. Largest Number](https://github.com/MikasaLevi/LeetCode/issues/69)
 
 ### 进制相关的问题
 
