@@ -56,6 +56,7 @@
 
 1. [5. Longest Palindromic Substring](https://github.com/MikasaLevi/LeetCode/issues/55)
 2. [125. Valid Palindrome](https://github.com/MikasaLevi/LeetCode/issues/54)
+3. [131. Palindrome Partitioning](https://github.com/MikasaLevi/LeetCode/issues/83)
 
 ### 字符串反转问题
 
