@@ -35,6 +35,7 @@
 ### 暂未总结分类!!!!!!
 
 1. [36. Valid Sudoku](https://github.com/MikasaLevi/LeetCode/issues/87)
+2. [48. Rotate Image](https://github.com/MikasaLevi/LeetCode/issues/88)
 
 # 链表List
 
