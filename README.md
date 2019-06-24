@@ -32,10 +32,11 @@
 1. [33. Search in Rotated Sorted Array](https://github.com/MikasaLevi/LeetCode/issues/85)
 2. [【需TODO:DISCUSS】34. Find First and Last Position of Element in Sorted Array](https://github.com/MikasaLevi/LeetCode/issues/86)
 
-### 暂未总结分类!!!!!!
+### 暂未总结分类!!!!!!(对二维数组进行操作)
 
 1. [36. Valid Sudoku](https://github.com/MikasaLevi/LeetCode/issues/87)
 2. [48. Rotate Image](https://github.com/MikasaLevi/LeetCode/issues/88)
+3. [54. Spiral Matrix](https://github.com/MikasaLevi/LeetCode/issues/89)
 
 # 链表List
 
