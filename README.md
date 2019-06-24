@@ -30,6 +30,7 @@
 ### 数组二分法
 
 1. [33. Search in Rotated Sorted Array](https://github.com/MikasaLevi/LeetCode/issues/85)
+2. [【需TODO:DISCUSS】34. Find First and Last Position of Element in Sorted Array](https://github.com/MikasaLevi/LeetCode/issues/86)
 
 # 链表List
 
