@@ -133,6 +133,7 @@
 ### DP 动态规划
 
 1. [63. Unique Paths II](https://github.com/MikasaLevi/LeetCode/issues/91) 
+2. [79. Word Search](https://github.com/MikasaLevi/LeetCode/issues/94)
 
 # 一些实际场景问题(这里都需要重点review一下)
 
