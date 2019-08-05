@@ -1,3 +1,7 @@
+# 总结
+
+1. [数组相关的总结](https://github.com/MikasaLevi/LeetCode/issues/96)
+
 # 数组相关
 
 ### 最大/最小子数组问题
