@@ -1,6 +1,7 @@
 # 总结
 
 1. [数组相关的总结](https://github.com/MikasaLevi/LeetCode/issues/96)
+2. [动态规划相关的总结](https://github.com/MikasaLevi/LeetCode/issues/97)
 
 # 数组相关
 
