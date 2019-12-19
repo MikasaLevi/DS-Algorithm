@@ -11,8 +11,9 @@
 
 # 总结
 
-1. [数组相关的总结](https://github.com/MikasaLevi/LeetCode/issues/96)
+1. [Array 类型总结](https://github.com/MikasaLevi/LeetCode/issues/96)
 2. [动态规划相关的总结](https://github.com/MikasaLevi/LeetCode/issues/97)
+3. [Tree类型总结](https://github.com/MikasaLevi/DS-Algorithm/issues/102)
 
 # 数组相关
 
