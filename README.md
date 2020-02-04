@@ -1,3 +1,7 @@
+# 2020 刷题记录
+
+1. [2020.02.04 记录：Array 相关 7 题](https://github.com/MikasaLevi/DS-Algorithm/issues/103)
+
 # 二刷
 
 ## 链表相关
@@ -6,8 +10,6 @@
 2. [二刷-链表相关-2. Add Two Numbers](https://github.com/MikasaLevi/DS-Algorithm/issues/98)
 3. [二刷-链表相关-19. Remove Nth Node From End of List](https://github.com/MikasaLevi/DS-Algorithm/issues/99)
 4. [二刷-链表相关-21. Merge Two Sorted Lists](https://github.com/MikasaLevi/DS-Algorithm/issues/100)
-
----
 
 # 总结
 
