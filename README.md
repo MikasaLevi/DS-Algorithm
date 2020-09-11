@@ -1,6 +1,7 @@
 # 总结
 
 1. [Two Pointer 类型总结](https://github.com/MikasaLevi/DS-Algorithm/issues/105) 
+2. [回溯算法](https://github.com/MikasaLevi/DS-Algorithm/issues/106)
 
 ---
 
