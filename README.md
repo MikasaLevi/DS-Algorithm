@@ -3,6 +3,7 @@
 1. [Two Pointer 类型总结](https://github.com/MikasaLevi/DS-Algorithm/issues/105) 
 2. [回溯算法](https://github.com/MikasaLevi/DS-Algorithm/issues/106)
 3. [滑窗法](https://github.com/MikasaLevi/DS-Algorithm/issues/107)
+4. [Union Find 类型](https://github.com/MikasaLevi/DS-Algorithm/issues/108)
 
 ---
 
