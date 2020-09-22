@@ -19,3 +19,4 @@
 # 刷题记录
 
 1. [1. Two Sum](https://github.com/MikasaLevi/DS-Algorithm/issues/110)
+2. [9. Palindrome Number](https://github.com/MikasaLevi/DS-Algorithm/issues/111)
