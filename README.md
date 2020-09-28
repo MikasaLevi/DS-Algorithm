@@ -21,3 +21,4 @@
 1. [1. Two Sum](https://github.com/MikasaLevi/DS-Algorithm/issues/110)
 2. [9. Palindrome Number](https://github.com/MikasaLevi/DS-Algorithm/issues/111)
 3. [14. Longest Common Prefix](https://github.com/MikasaLevi/DS-Algorithm/issues/112)
+4. [26. Remove Duplicates from Sorted Array](https://github.com/MikasaLevi/DS-Algorithm/issues/113)
