@@ -23,5 +23,6 @@
 3. [14. Longest Common Prefix](https://github.com/MikasaLevi/DS-Algorithm/issues/112)
 4. [26. Remove Duplicates from Sorted Array](https://github.com/MikasaLevi/DS-Algorithm/issues/113)
 5. [27. Remove Element](https://github.com/MikasaLevi/DS-Algorithm/issues/114)
-6. [80. Remove Duplicates from Sorted Array II](https://github.com/MikasaLevi/DS-Algorithm/issues/115)
-7. [234. Palindrome Linked List](https://github.com/MikasaLevi/DS-Algorithm/issues/116)
+6. [61. Rotate List](https://github.com/MikasaLevi/DS-Algorithm/issues/117)
+7. [80. Remove Duplicates from Sorted Array II](https://github.com/MikasaLevi/DS-Algorithm/issues/115)
+8. [234. Palindrome Linked List](https://github.com/MikasaLevi/DS-Algorithm/issues/116)
