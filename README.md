@@ -11,8 +11,6 @@
 4. [DP 类型总结2：题型总结](https://github.com/MikasaLevi/DS-Algorithm/issues/104)
 5. [LinkedList 类型总结](https://github.com/MikasaLevi/DS-Algorithm/issues/101)
 
----
-
 # 第二轮刷题记录(精刷)
 
 1. [1. Two Sum](https://github.com/MikasaLevi/DS-Algorithm/issues/110)
