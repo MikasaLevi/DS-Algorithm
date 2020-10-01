@@ -21,6 +21,7 @@
 1. [1. Two Sum](https://github.com/MikasaLevi/DS-Algorithm/issues/110)
 2. [9. Palindrome Number](https://github.com/MikasaLevi/DS-Algorithm/issues/111)
 3. [14. Longest Common Prefix](https://github.com/MikasaLevi/DS-Algorithm/issues/112)
+4. [19. Remove Nth Node From End of List](https://github.com/MikasaLevi/DS-Algorithm/issues/120)
 4. [26. Remove Duplicates from Sorted Array](https://github.com/MikasaLevi/DS-Algorithm/issues/113)
 5. [27. Remove Element](https://github.com/MikasaLevi/DS-Algorithm/issues/114)
 6. [61. Rotate List](https://github.com/MikasaLevi/DS-Algorithm/issues/117)
