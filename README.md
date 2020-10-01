@@ -25,4 +25,5 @@
 5. [27. Remove Element](https://github.com/MikasaLevi/DS-Algorithm/issues/114)
 6. [61. Rotate List](https://github.com/MikasaLevi/DS-Algorithm/issues/117)
 7. [80. Remove Duplicates from Sorted Array II](https://github.com/MikasaLevi/DS-Algorithm/issues/115)
-8. [234. Palindrome Linked List](https://github.com/MikasaLevi/DS-Algorithm/issues/116)
+8. [141. Linked List Cycle](https://github.com/MikasaLevi/DS-Algorithm/issues/118)
+9. [234. Palindrome Linked List](https://github.com/MikasaLevi/DS-Algorithm/issues/116)
