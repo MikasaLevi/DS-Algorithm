@@ -1,8 +1,10 @@
-# 第一轮刷题记录(粗刷)
 
 1. [Two Pointer 类型总结](https://github.com/MikasaLevi/DS-Algorithm/issues/105) 
+2. [Sliding Window 类型总结](https://github.com/MikasaLevi/DS-Algorithm/issues/107)
+
+# 第一轮刷题记录(粗刷)
+
 2. [回溯算法](https://github.com/MikasaLevi/DS-Algorithm/issues/106)
-3. [滑窗法](https://github.com/MikasaLevi/DS-Algorithm/issues/107)
 4. [Union Find 类型](https://github.com/MikasaLevi/DS-Algorithm/issues/108)
 5. [栈类型](https://github.com/MikasaLevi/DS-Algorithm/issues/109)
 1. [Array 类型总结](https://github.com/MikasaLevi/DS-Algorithm/issues/96)
