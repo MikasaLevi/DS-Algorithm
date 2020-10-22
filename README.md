@@ -1,30 +1,37 @@
+数据结构类型：
 
-1. [Two Pointer 类型总结](https://github.com/MikasaLevi/DS-Algorithm/issues/105) 
-2. [Sliding Window 类型总结](https://github.com/MikasaLevi/DS-Algorithm/issues/107)
+1. 数组
+2. 链表
+3. 栈
+4. 队列
+5. 树
+6. 图
+7. Map
+8. String
 
-# 第一轮刷题记录(粗刷)
+算法类型：
 
-2. [回溯算法](https://github.com/MikasaLevi/DS-Algorithm/issues/106)
-4. [Union Find 类型](https://github.com/MikasaLevi/DS-Algorithm/issues/108)
-5. [栈类型](https://github.com/MikasaLevi/DS-Algorithm/issues/109)
-1. [Array 类型总结](https://github.com/MikasaLevi/DS-Algorithm/issues/96)
-2. [Tree 类型总结](https://github.com/MikasaLevi/DS-Algorithm/issues/102)
-3. [DP 类型总结1：DP 基本概念](https://github.com/MikasaLevi/DS-Algorithm/issues/97)
-4. [DP 类型总结2：题型总结](https://github.com/MikasaLevi/DS-Algorithm/issues/104)
-5. [LinkedList 类型总结](https://github.com/MikasaLevi/DS-Algorithm/issues/101)
+1. 动态规划 / 分治 / 贪心 / 回溯
+2. BFS / DFS
+3. 双指针，滑窗法，union find
 
-# 第二轮刷题记录(精刷)
+# 技巧类型
 
-1. [1. Two Sum](https://github.com/MikasaLevi/DS-Algorithm/issues/110)
-2. [9. Palindrome Number](https://github.com/MikasaLevi/DS-Algorithm/issues/111)
-3. [14. Longest Common Prefix](https://github.com/MikasaLevi/DS-Algorithm/issues/112)
-4. [19. Remove Nth Node From End of List](https://github.com/MikasaLevi/DS-Algorithm/issues/120)
-4. [26. Remove Duplicates from Sorted Array](https://github.com/MikasaLevi/DS-Algorithm/issues/113)
-5. [27. Remove Element](https://github.com/MikasaLevi/DS-Algorithm/issues/114)
-6. [61. Rotate List](https://github.com/MikasaLevi/DS-Algorithm/issues/117)
-7. [80. Remove Duplicates from Sorted Array II](https://github.com/MikasaLevi/DS-Algorithm/issues/115)
-8. [141. Linked List Cycle](https://github.com/MikasaLevi/DS-Algorithm/issues/118)
-9. [142. （重点 + 证明）Linked List Cycle II](https://github.com/MikasaLevi/DS-Algorithm/issues/119)
-10. [146. （重点）LRU Cache](https://github.com/MikasaLevi/DS-Algorithm/issues/122)
-10. [234. Palindrome Linked List](https://github.com/MikasaLevi/DS-Algorithm/issues/116)
-11. [283. Move Zeroes](https://github.com/MikasaLevi/DS-Algorithm/issues/121)
+1. [Two Pointer](https://github.com/MikasaLevi/DS-Algorithm/issues/105) 
+2. [Sliding Window](https://github.com/MikasaLevi/DS-Algorithm/issues/107)
+3. [Union Find](https://github.com/MikasaLevi/DS-Algorithm/issues/108)
+4. [回溯算法](https://github.com/MikasaLevi/DS-Algorithm/issues/106)
+5. [DP1：DP 基本概念](https://github.com/MikasaLevi/DS-Algorithm/issues/97)
+6. [DP2：题型总结](https://github.com/MikasaLevi/DS-Algorithm/issues/104)
+
+# 数据结构
+
+1. [Array](https://github.com/MikasaLevi/DS-Algorithm/issues/96)
+2. [LinkedList](https://github.com/MikasaLevi/DS-Algorithm/issues/101)
+3. [Tree 类型总结](https://github.com/MikasaLevi/DS-Algorithm/issues/102)
+4. [栈](https://github.com/MikasaLevi/DS-Algorithm/issues/109)
+
+# 一些好的资料
+
+1. [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
+2. [labuladong的算法小抄](https://labuladong.gitbook.io/algo/)
