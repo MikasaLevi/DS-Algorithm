@@ -21,3 +21,9 @@
 1. [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
 2. [labuladong的算法小抄](https://labuladong.gitbook.io/algo/)
 3. [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
+
+# 别人刷题的一些经验
+
+1. [[Leetcode] 900+刷题经验贴](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=469710)
+2. [[其他] 刷题进阶Tips--分享给那些有刷题经验或工作经验的人](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=289223)
+3. [Leetcode 分类顺序表](https://cspiration.com/leetcodeClassification#1)
