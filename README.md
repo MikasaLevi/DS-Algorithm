@@ -18,6 +18,7 @@
 5. 背包问题：
     1. [0-1背包问题(暴力,top-down,bottom-up) ](https://github.com/wuhuachuan712/DS-Algorithm/issues/125)
     2. [0-1背包问题(O(C)空间复杂度优化)](https://github.com/wuhuachuan712/DS-Algorithm/issues/126)
+6. [KMP算法](https://github.com/wuhuachuan712/DS-Algorithm/issues/127)
 
 # 一些好的资料
 
